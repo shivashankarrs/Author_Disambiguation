@@ -38,7 +38,12 @@ Information Retrieval Journal, 18(5), 379-412
 The data consist of 574 ambiguous name groups in 6,783 name record instances. These data were originally created by combining
 other labeled data (including PENN and AMINER), and de-duplicated and corrected for errors
 
-6.
+6. KISTI: http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file
+
+Kang, I. S., Kim, P., Lee, S., Jung, H., & You, B. J. (2011). Construction of a large-scale test set for author disambiguation.
+Information Processing & Management, 47(3), 452-465.
+
+Another labeled data were created by researchers at the Korea Institute of Science and Technology Information in collaboration with the Kyungsung University in Korea. The KISTI data are a collection of 41,673 name record instances extracted from 37,613 DBLPindexed publications. A total of 6,921 unique authors were identified by manual disambiguation exploiting web query results from Google
 
 
 
