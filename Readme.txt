@@ -10,6 +10,8 @@
 
 2. Aminer: https://www.aminer.cn/disambiguation
 
+http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip
+
 @article{Tang:12TKDE,
     author = {Jie Tang and Alvis C.M. Fong and Bo Wang and Jing Zhang},
     title = {A Unified Probabilistic Framework for Name Disambiguation in Digital Library},
@@ -23,10 +25,20 @@
 
 Song, M., Kim, E.H.J., Kim, H.J. Exploring Author Name Disambiguation on PubMed-scale, Journal of Informetrics.
 
-4. http://clgiles.ist.psu.edu/data/nameset_author-disamb.tar.zip
+4. PENN: http://clgiles.ist.psu.edu/data/nameset_author-disamb.tar.zip
 
 Han, H., Zha, H. Y., & Giles, C. L. (2005). Name disambiguation spectral in author citations using a K-way clustering method.
 Proceedings of the 5th Acm/Ieee Joint Conference on Digital Libraries, Proceedings, 334-343
+
+5. QIAN: https://github.com/shivashankarrs/DBLP-Name-Disambiguation-Dataset
+
+Qian, Y., Zheng, Q., Sakai, T., Ye, J., & Liu, J. (2015). Dynamic author name disambiguation for growing digital libraries.
+Information Retrieval Journal, 18(5), 379-412
+
+The data consist of 574 ambiguous name groups in 6,783 name record instances. These data were originally created by combining
+other labeled data (including PENN and AMINER), and de-duplicated and corrected for errors
+
+6.
 
 
 
