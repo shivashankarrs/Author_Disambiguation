@@ -43,7 +43,13 @@ other labeled data (including PENN and AMINER), and de-duplicated and corrected 
 Kang, I. S., Kim, P., Lee, S., Jung, H., & You, B. J. (2011). Construction of a large-scale test set for author disambiguation.
 Information Processing & Management, 47(3), 452-465.
 
-Another labeled data were created by researchers at the Korea Institute of Science and Technology Information in collaboration with the Kyungsung University in Korea. The KISTI data are a collection of 41,673 name record instances extracted from 37,613 DBLPindexed publications. A total of 6,921 unique authors were identified by manual disambiguation exploiting web query results from Google
+Another labeled data were created by researchers at the Korea Institute of Science and Technology Information in collaboration with the Kyungsung University in Korea. The KISTI data are a collection of 41,673 name record instances extracted from 37,613 DBLPindexed publications. A total of 6,921 unique authors were identified by manual disambiguation exploiting web query results from Google.
+
+7. MEDLINE: https://github.com/amorgani/AND
+
+Dina Vishnyakova, Raul Rodriguez-Esteban, Fabio Rinaldi, A new approach and gold standard toward author disambiguation in MEDLINE, Journal of the American Medical Informatics Association.
+
+
 
 
 
