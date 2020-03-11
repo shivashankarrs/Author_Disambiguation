@@ -30,7 +30,7 @@ Song, M., Kim, E.H.J., Kim, H.J. Exploring Author Name Disambiguation on PubMed-
 Han, H., Zha, H. Y., & Giles, C. L. (2005). Name disambiguation spectral in author citations using a K-way clustering method.
 Proceedings of the 5th Acm/Ieee Joint Conference on Digital Libraries, Proceedings, 334-343
 
-5. QIAN: https://github.com/shivashankarrs/DBLP-Name-Disambiguation-Dataset
+5. QIAN: https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset
 
 Qian, Y., Zheng, Q., Sakai, T., Ye, J., & Liu, J. (2015). Dynamic author name disambiguation for growing digital libraries.
 Information Retrieval Journal, 18(5), 379-412
