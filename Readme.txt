@@ -23,6 +23,8 @@
 
 Song, M., Kim, E.H.J., Kim, H.J. Exploring Author Name Disambiguation on PubMed-scale, Journal of Informetrics.
 
+4. http://clgiles.ist.psu.edu/data/nameset_author-disamb.tar.zip
+
 
 
 
