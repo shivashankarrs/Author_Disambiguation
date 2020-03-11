@@ -25,6 +25,10 @@ Song, M., Kim, E.H.J., Kim, H.J. Exploring Author Name Disambiguation on PubMed-
 
 4. http://clgiles.ist.psu.edu/data/nameset_author-disamb.tar.zip
 
+Han, H., Zha, H. Y., & Giles, C. L. (2005). Name disambiguation spectral in author citations using a K-way clustering method.
+Proceedings of the 5th Acm/Ieee Joint Conference on Digital Libraries, Proceedings, 334-343
+
+
 
 
 
