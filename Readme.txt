@@ -39,6 +39,11 @@ Another labeled data were created by researchers at the Korea Institute of Scien
 
 Dina Vishnyakova, Raul Rodriguez-Esteban, Fabio Rinaldi, A new approach and gold standard toward author disambiguation in MEDLINE, Journal of the American Medical Informatics Association.
 
+8. zbMATH: https://zenodo.org/record/161333#.Xmn9B6gzY2w
+
+This data set contains disambiguated publication data from zbMATH (www.zbmath.org) for use in author name disambiguation (AND). It covers 28321 publications with 33810 authorship records, authored by 2946 distinct authors. Authorship records have been manually annotated with author identifiers.
+
+Mark-Christoph Müller, Florian Reitz, and Nicolas Roy (2017): "Data Sets for Author Name Disambiguation: An Empirical Analysis and a New Resource", Scientometrics.
 
 
 
