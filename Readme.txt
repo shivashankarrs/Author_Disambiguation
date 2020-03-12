@@ -1,25 +1,13 @@
 1. REXA: https://github.com/tapilab/rexa-coref-data
 
-@inproceedings{culotta07author,
-  author = {Aron Culotta and Pallika Kanani and Robert Hall and Michael Wick and Andrew McCallum},
-  title = {Author Disambiguation using Error-driven Machine Learning with a Ranking Loss Function},
-  booktitle = {Sixth International Workshop on Information Integration on the Web (IIWeb-07)},
-  year = {2007},
-  address = {Vancouver, Canada},
-}
+Aron Culotta and Pallika Kanani and Robert Hall and Michael Wick and Andrew McCallum. Author Disambiguation using Error-driven Machine Learning with a Ranking Loss Function. Sixth International Workshop on Information Integration on the Web (IIWeb-07), 2007.
 
 2. Aminer: https://www.aminer.cn/disambiguation
 
 http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip
 
-@article{Tang:12TKDE,
-    author = {Jie Tang and Alvis C.M. Fong and Bo Wang and Jing Zhang},
-    title = {A Unified Probabilistic Framework for Name Disambiguation in Digital Library},
-    journal ={IEEE Transactions on Knowledge and Data Engineering},
-    volume = {24},
-    number = {6},
-    year = {2012},
-}
+Jie Tang and Alvis C.M. Fong and Bo Wang and Jing Zhang. A Unified Probabilistic Framework for Name Disambiguation in Digital Library. 
+IEEE Transactions on Knowledge and Data Engineering, 2012.
 
 3. PubMed: https://github.com/Yonsei-TSMM/author_name_disambiguation
 
