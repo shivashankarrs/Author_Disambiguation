@@ -1,3 +1,5 @@
+List of manually annotated author name disambiguation datasets
+
 1. REXA: https://github.com/tapilab/rexa-coref-data
 
 Aron Culotta and Pallika Kanani and Robert Hall and Michael Wick and Andrew McCallum. Author Disambiguation using Error-driven Machine Learning with a Ranking Loss Function. Sixth International Workshop on Information Integration on the Web (IIWeb-07), 2007.
